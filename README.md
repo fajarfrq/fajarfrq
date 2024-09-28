@@ -1,7 +1,4 @@
-### Hi there kumaha calageur?👋
-[![@saya fajar  Holopin board](https://holopin.io/api/user/board?user=haxsinner)](https://holopin.io/@haxsinner)
-
-![fajarfrq github stats](https://github-readme-stats.vercel.app/api?username=fajarfrq&show_icons=true&theme=tokyonight)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fajarfrq&layout=compact)
+### 
 
 <!--
 **fajarfrq/fajarfrq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
